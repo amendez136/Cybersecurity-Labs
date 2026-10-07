@@ -32,7 +32,9 @@ The incident response lab began by creating a dedicated working directory named 
 
 After generating the payload, I verified that the malicious Linux executable was successfully created within the working directory. I then launched a Python HTTP server to host the file and make it accessible within the lab environment. This simulated a common attack delivery method in which malicious files are distributed over a web service prior to execution on a target system.
 
-<img width="415" height="197" alt="Lab 23 pic 3" src="https://github.com/user-attachments/assets/f4b85bb0-8783-40df-a1d3-bb7867eeaa87" />
+<p align="center">
+  <img width="415" height="197" alt="Lab 23 pic 3" src="https://github.com/user-attachments/assets/f4b85bb0-8783-40df-a1d3-bb7867eeaa87" />
+</p>
 
 ### Step 3: Gather System and Network Information
 After preparing the simulated attack environment, I examined the target Linux system to collect baseline information that could assist in the investigation. I reviewed operating system details, network interface configurations, IP addresses, and active network connections. This information helps incident responders understand the affected system, identify unusual network activity, and establish context for further analysis.
@@ -40,7 +42,9 @@ After preparing the simulated attack environment, I examined the target Linux sy
 ### Step 4: Analyze System Activity and Login History
 As part of the investigation process, I reviewed system login and reboot records to identify historical activity on the affected host. Examining authentication logs and system uptime information helps incident responders establish a timeline of events, detect unusual access patterns, and correlate system activity with potential indicators of compromise. This step demonstrated how system logs can be used to support incident analysis and forensic investigations.
 
-<img width="1222" height="662" alt="Lab 23 product" src="https://github.com/user-attachments/assets/b55108a2-57d9-4cb1-a8cc-54da1f8b4226" />
+<p align="center">
+  <img width="1222" height="662" alt="Lab 23 product" src="https://github.com/user-attachments/assets/b55108a2-57d9-4cb1-a8cc-54da1f8b4226" />
+</p>
 
 ## Skills Demonstrated
 - Incident Response
