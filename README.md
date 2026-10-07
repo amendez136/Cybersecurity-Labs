@@ -1,0 +1,1 @@
+Welcome to my cybersecurity portfolio repository. This repository contains hands-on labs, projects, and exercises completed through NETLAB, Coursera, and independent learning. The goal of this portfolio is to document my practical experience with cybersecurity tools, Linux administration, networking, incident response, and security operations.
