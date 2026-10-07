@@ -10,7 +10,7 @@ In the purpose of this lab, I conducted a malicious Linux executable file follow
 <img width="715" height="642" alt="Lab 23 pic 2" src="https://github.com/user-attachments/assets/8590756e-e2c0-4313-8549-2483f3c3b603" />
 
 ### Step 2: Host the Malicious File for Investigation
- 
+
 After generating the payload, I verified that the malicious Linux executable was successfully created within the working directory. I then launched a Python HTTP server to host the file and make it accessible within the lab environment. This simulated a common attack delivery method in which malicious files are distributed over a web service prior to execution on a target system.
 
 <img width="415" height="197" alt="Lab 23 pic 3" src="https://github.com/user-attachments/assets/f4b85bb0-8783-40df-a1d3-bb7867eeaa87" />
