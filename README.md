@@ -39,6 +39,10 @@ After generating the payload, I verified that the malicious Linux executable was
 ### Step 3: Gather System and Network Information
 After preparing the simulated attack environment, I examined the target Linux system to collect baseline information that could assist in the investigation. I reviewed operating system details, network interface configurations, IP addresses, and active network connections. This information helps incident responders understand the affected system, identify unusual network activity, and establish context for further analysis.
 
+<p align="center">
+  <img width="900" height="665" alt="Lab 23 pic 4" src="https://github.com/user-attachments/assets/83bcbc49-1a53-489a-8fb1-633bc6ced5a4" />
+</p>
+
 ### Step 4: Analyze System Activity and Login History
 As part of the investigation process, I reviewed system login and reboot records to identify historical activity on the affected host. Examining authentication logs and system uptime information helps incident responders establish a timeline of events, detect unusual access patterns, and correlate system activity with potential indicators of compromise. This step demonstrated how system logs can be used to support incident analysis and forensic investigations.
 
