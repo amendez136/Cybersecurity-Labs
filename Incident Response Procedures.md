@@ -50,6 +50,17 @@ As part of the investigation process, I reviewed system login and reboot records
   <img width="1222" height="662" alt="Lab 23 product" src="https://github.com/user-attachments/assets/b55108a2-57d9-4cb1-a8cc-54da1f8b4226" />
 </p>
 
+## Key Commands Used
+msfconsole
+search linux/x64/shell_reverse_tcp
+generate -f elf -o linux
+python3 -m http.server
+hostname
+uname -a
+ifconfig
+netstat -ant
+last
+
 ## Skills Demonstrated
 - Incident Response
 - Log Analysis
