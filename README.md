@@ -14,3 +14,8 @@ In the purpose of this lab, I conducted a malicious Linux executable file follow
 After generating the payload, I verified that the malicious Linux executable was successfully created within the working directory. I then launched a Python HTTP server to host the file and make it accessible within the lab environment. This simulated a common attack delivery method in which malicious files are distributed over a web service prior to execution on a target system.
 
 <img width="415" height="197" alt="Lab 23 pic 3" src="https://github.com/user-attachments/assets/f4b85bb0-8783-40df-a1d3-bb7867eeaa87" />
+
+### Step 3: Gather System and Network Information
+After preparing the simulated attack environment, I examined the target Linux system to collect baseline information that could assist in the investigation. I reviewed operating system details, network interface configurations, IP addresses, and active network connections. This information helps incident responders understand the affected system, identify unusual network activity, and establish context for further analysis.
+
+<img width="900" height="665" alt="Lab 23 pic 4" src="https://github.com/user-attachments/assets/83cc07ce-0e36-45c0-83b8-2fb0b4d575a7" />
