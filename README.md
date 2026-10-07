@@ -1,4 +1,4 @@
-# Cybersecurity-Labs
+# Incident Response Procedures Lab
 
 ## Overview
 This NETLAB exercise focused on investigating a simulated security incident in a Linux environment. The lab involved identifying a malicious payload, collecting system information, analyzing network activity, and reviewing system logs to support the incident response process.
