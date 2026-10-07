@@ -51,15 +51,15 @@ As part of the investigation process, I reviewed system login and reboot records
 </p>
 
 ## Key Commands Used
-msfconsole
-search linux/x64/shell_reverse_tcp
-generate -f elf -o linux
-python3 -m http.server
-hostname
-uname -a
-ifconfig
-netstat -ant
-last
+- msfconsole
+- search linux/x64/shell_reverse_tcp
+- generate -f elf -o linux
+- python3 -m http.server
+- hostname
+- uname -a
+- ifconfig
+- netstat -ant
+- last
 
 ## Skills Demonstrated
 - Incident Response
